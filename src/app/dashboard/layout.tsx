@@ -85,7 +85,7 @@ export default function AuthenticatedLayout({
       <footer className="bg-teal-500 text-white">
         <div className="container mx-auto px-4 py-3 text-center">
           <p className="text-sm">
-            © {new Date().getFullYear()} GreenFuture's. All rights reserved.
+            © {new Date().getFullYear()} GreenFuture&apos;s. All rights reserved.
           </p>
         </div>
       </footer>
